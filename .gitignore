@@ -1,0 +1,33 @@
+# Compiled binaries
+ddrconfcmp/ddrconfcmp
+ddrconfdump/ddrconfdump
+
+# Generated timing files
+ddrconfcmp/lpddr5_timing_left.c
+ddrconfcmp/lpddr5_timing_right.c
+ddrconfdump/lpddr5_timing.c
+
+# Output directories
+ddrconfcmp/output/
+ddrconfdump/output/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# Python cache (if any scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.tmp
+*.temp
